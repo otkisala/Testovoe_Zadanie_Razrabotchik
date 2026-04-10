@@ -1,0 +1,13 @@
+node_modules/
+dist/
+backend/data/
+*.db
+.env
+.env.local
+.DS_Store
+*.log
+
+# IDE / editor configs with local paths
+.claude/
+.idea/
+.vscode/
